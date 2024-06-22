@@ -1,0 +1,6 @@
+{
+  "name": "Outpost ambience fix",
+  "description": "Fixes the late game \"feature\" of Arx Fatalis where the ambience no longer plays at the outpost after solving the troll quest",
+  "author": "Lajos Mészáros<m_lajos@hotmail.com>",
+  "url": "https://github.com/meszaros-lajos-gyorgy/arx-mod-outpost-ambience-fix"
+}
